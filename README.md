@@ -3,6 +3,9 @@
 Active Directory'e birden fazla kullanıcı eklemek için Powershell scripti. CSV dosyasından veya komut satırından kullanıcı adları alınır ve Active Directory'e tek seferde eklenir. 
 </p>
 <p>Kullanıcılar aynı şehir, departman, ülke vb. gibi aynı özelliklere sahip olurlar. Aynı organization Unite taşınabilir ve aynı gruba eklenebilirler.</p>
+# Gereklilikler
+<p>Bu scriptin çalışması için  Windows Server 2008 R2 üzerinde Active Directory kurulu olmalıdır.</p>
+
 # Kurulum
 1. Belgeler\WindowsPowerShell\Modules\EkleKullanici\ klasörünü oluşturun
 2. EkleKullanici.psm1 dosyasını oluşturduğunuz klasöre kopyalayın.
