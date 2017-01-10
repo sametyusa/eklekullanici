@@ -1,6 +1,6 @@
 # Ekle-Kullanıcı
 <p>
-Active Directory'e birden fazla kullanıcı eklemek için Powershell scripti. CSV dosyasından veya komut satırından kullanıcı adları alınır ve Active Directory'e tek seferde eklenir. 
+Active Directory'e toplu kullanıcı eklemeye yarayan Powershell scripti. CSV dosyasından veya komut satırından kullanıcı adları alınır ve Active Directory'e tek seferde eklenir. 
 </p>
 <p>Kullanıcılar aynı şehir, departman, ülke vb. gibi aynı özelliklere sahip olurlar. Aynı organization Unite taşınabilir ve aynı gruba eklenebilirler.</p>
 # Gereklilikler
